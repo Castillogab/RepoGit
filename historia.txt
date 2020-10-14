@@ -1,0 +1,3 @@
+mi nombre es gabriela Castillo
+edad 24
+sexo femenino
